@@ -11,7 +11,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>uk.co.blackpepper.support</groupId>
 	<artifactId>bp-support-mail-test</artifactId>
-	<version>1.1.3-SNAPSHOT</version>
+	<version>1.2.0-SNAPSHOT</version>
 	
 	<name>Black Pepper Support Mail Test</name>
 	
