@@ -26,7 +26,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>uk.co.blackpepper.support</groupId>
 	<artifactId>bp-support-mail-test</artifactId>
-	<version>1.2.0</version>
+	<version>1.2.1-SNAPSHOT</version>
 	
 	<name>Black Pepper Support Mail Test</name>
 	<description>Support for testing with the JavaMail API.</description>
@@ -56,7 +56,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-support-mail-test.git</connection>
 		<developerConnection>scm:git:git@github.com:BlackPepperSoftware/bp-support-mail-test.git</developerConnection>
-		<tag>1.2.0</tag>
+		<tag>HEAD</tag>
 		<url>https://github.com/BlackPepperSoftware/bp-support-mail-test</url>
 	</scm>
 
